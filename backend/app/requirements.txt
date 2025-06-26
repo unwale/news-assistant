@@ -1,0 +1,12 @@
+weaviate-client==4.14.1
+requests
+fastapi
+pydantic
+langchain-community
+langchain-gigachat
+uvicorn
+python-dotenv
+nltk
+yake
+pymorphy3
+razdel

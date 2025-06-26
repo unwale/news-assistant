@@ -1,0 +1,6 @@
+torch<=2.5.1
+torchaudio<=2.5.1
+git+https://github.com/salute-developers/GigaAM.git
+fastapi
+python-multipart
+uvicorn

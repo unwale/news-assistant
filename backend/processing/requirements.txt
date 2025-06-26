@@ -1,0 +1,7 @@
+fastapi
+pydantic
+uvicorn
+nltk
+yake
+pymorphy3
+razdel

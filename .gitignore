@@ -1,2 +1,10 @@
 __pycache__/
 .env
+bin/
+include/
+lib/
+lib64
+*.cfg
+data/
+weaviate_data/
+*.ckpt

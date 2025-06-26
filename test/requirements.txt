@@ -1,0 +1,8 @@
+requests
+pandas
+numpy
+ragas
+langchain-openai
+openai
+scikit-learn
+nltk

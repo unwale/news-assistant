@@ -1,0 +1,6 @@
+weaviate-client==4.14.1
+requests
+yake
+nltk
+pymorphy3
+razdel
