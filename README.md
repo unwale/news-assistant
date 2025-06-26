@@ -43,12 +43,12 @@
    ```
 
 2. **Настройте переменные окружения:**
-   Скопируйте файл `frontend/telegram-bot/example.env` в `.env` в корне проекта и заполните необходимые API-ключи и учетные данные.
+   Скопируйте файл `example.env` в `.env` в корне проекта и заполните необходимые API-ключи и учетные данные.
    ```bash
    cp frontend/telegram-bot/example.env .env
    ```
    Вам потребуются токены для:
-   - `TELEGRAM_BOT_TOKEN`
+   - `BOT_TOKEN`
    - `GIGACHAT_CREDENTIALS`
    - `SALUTE_SPEECH_CLIENT_ID` и `SALUTE_SPEECH_CLIENT_SECRET`
 
